@@ -1,4 +1,4 @@
-/* Imprtando o modulo do gulp */
+/* Importando o modulo do gulp */
 const gulp = require('gulp');
 
 /* Importando o modulo do gulp-concat */
